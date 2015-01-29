@@ -19,7 +19,7 @@
     </author>
     
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<gap:splash src="splash.png"/><preference name="SplashScreenDelay" value="1000000"/>
+	<gap:splash src="splash.png"/><preference name="SplashScreenDelay" value="10000"/>
 	<icon src="icon.png" />
 
 </widget>
