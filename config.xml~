@@ -5,7 +5,7 @@
         id        = "com.revabasket"
         versionCode="10" 
         version   = "1.4.0">
-	<preference name="splash-screen-duration" value="1000000"/>
+	
     <!-- versionCode is optional and Android only -->
 
     <name>RevaBasket</name>
@@ -17,7 +17,7 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Developed by: Prashant Verma
     </author>
-    <gap:splash src="splash.png" />
+    <gap:splash src="splash.png" /><preference name="splash-screen-duration" value="1000000"/>
     <icon src="icon.png" />
 			<preference name="Load-url-timeout" value="15000" />
 </widget>
