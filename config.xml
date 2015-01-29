@@ -15,11 +15,11 @@
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Developed by: Prashant Verma
+        Developed by: Prashant Verma -CNPL
     </author>
     
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<gap:splash src="splash.png"/><preference name="splash-screen-duration" value="1000000"/>
+	<gap:splash src="splash.png"/><preference name="SplashScreenDelay" value="1000000"/>
 	<icon src="icon.png" />
 
 </widget>
