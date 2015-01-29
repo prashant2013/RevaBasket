@@ -4,7 +4,7 @@
         id        = "com.revabasket"
         versionCode="10" 
         version   = "1.4.0">
-
+	<preference name="splash-screen-duration" value="1000000"/>
     <!-- versionCode is optional and Android only -->
 
     <name>RevaBasket</name>
